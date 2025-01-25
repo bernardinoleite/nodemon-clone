@@ -1,0 +1,35 @@
+{
+  "name": "nodemon-clone",
+  "version": "1.0.0",
+  "description": "Este projecto é um clone do popular Nodemon, que serve para mostrar como ele trabalha por debaixo dos panos usado apenas javascript com os modulos nativos do Node.js",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bernardinoleite/nodemon-clone"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Bernardino Leite",
+    "email": "bernardinoleite2008@gmail.com",
+    "url": "https://bernardinoleite.netlify.app"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": {
+    "nodemon-clone": "./index.js"
+  }
+}
